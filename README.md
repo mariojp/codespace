@@ -1,1 +1,4 @@
-# codespace
+# Codespace
+
+
+npx expo start --tunnel
